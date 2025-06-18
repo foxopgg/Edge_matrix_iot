@@ -58,3 +58,8 @@ CREATE TABLE temperature_readings (
 - Set up the hardware and upload the ESP32 code
 - Configure the Python server and database
 - Visualize or analyze the collected data
+
+
+![alt text](image.png)
+
+![alt text](<WhatsApp Image 2025-06-18 at 10.12.03_373efecd.jpg>)
